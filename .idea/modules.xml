@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BonusTask.iml" filepath="$PROJECT_DIR$/BonusTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Screen/Screen.iml" filepath="$PROJECT_DIR$/Screen/Screen.iml" />
     </modules>
   </component>
 </project>
