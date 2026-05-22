@@ -28,4 +28,5 @@ This project implements Dijkstra’s Algorithm to find the shortest path from a 
 ## Example Output
 
 Shortest distances from 0:
+
 ![Screen](Screen/1.png)
